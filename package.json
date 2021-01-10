@@ -1,0 +1,25 @@
+{
+  "name": "iot-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushAgrawal25/IOT-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyushAgrawal25/IOT-Project/issues"
+  },
+  "homepage": "https://github.com/AyushAgrawal25/IOT-Project#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
